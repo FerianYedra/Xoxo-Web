@@ -2091,7 +2091,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		margin: 0em 0em 0em 0;
+		margin: -0.5em 0em 0em 0em;
 		flex-wrap: wrap;
 		justify-content: center;
 		background-color: #ffffff;
@@ -2664,6 +2664,7 @@ input, select, textarea {
 					border-top: solid 1px rgba(255, 255, 255, 0.05);
 					padding: 0 1em 0 1em;
 					font-style: italic;
+					p
 				}
 
 					#navPanel .link:first-child {
